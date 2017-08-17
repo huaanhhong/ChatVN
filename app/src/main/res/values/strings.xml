@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">ChatVN</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="pemail">Email</string>
+    <string name="phone">Mobile</string>
+    <string name="password">Password</string>
+    <string name="confirmpass">Confirm Password</string>
+    <string name="signup">Sign up</string>
+    <string name="signin">sign in</string>
+    <string name="facebook"><b><u>Neu ban co tai khoan facebook bang email->>></u></b></string>
+    <string name="thieuthongtin">Canh bao thieu thong tin!</string>
+    <string name="saimatkhau">Canh bao mat khau khong thong nhat!</string>
+    <string name="dialogchodangki">Qua trinh dang ki dien ra hoi lau, xin ban vui long cho!</string>
+    <string name="err">Da co loi xay ra!!!</string>
+    <string name="titledialog">SIGN UP!!!</string>
+    <string name="messageNhaccheckmail">Trong vong 10 phut, Ban vui long check mail de tiep tuc qua trinh dang ki...</string>
+    <string name="dacheck">da check</string>
+    <string name="huy">huy</string>
+    //////////////////////////////////////////////////////////
+    <string name="tunnel_mode_entry_value_always">always</string>
+    <string name="tunnel_mode_entry_value_3G_only">3G_only</string>
+    <string name="tunnel_mode_entry_value_auto">auto</string>
+    <string name="tunnel_mode_entry_value_disabled">disabled</string>
+    <string name="pref_extra_accounts">pref_nb_accounts_extra</string>
+    <string name="pref_video_use_front_camera_key">pref_video_use_front_camera_key</string>
+    <string name="pref_wifi_only_key">pref_wifi_only_key</string>
+    <string name="pref_transport_use_random_ports_key">pref_transport_use_random_ports_key</string>
+    <string name="pref_debug_key">pref_debug_key</string>
+    <string name="pref_background_mode_key">pref_background_mode_key</string>
+    <string name="pref_animation_enable_key">pref_animation_enable_key</string>
+    <string name="pref_autostart_key">pref_autostart_key</string>
+    <string name="pref_image_sharing_server_key">pref_image_sharing_server_key</string>
+    <string name="pref_remote_provisioning_key">pref_remote_provisioning_key</string>
+    <string name="pref_default_account_key">pref_default_account_key</string>
+    <string name="pref_username_key">pref_username_key</string>
+    <string name="pref_auth_userid_key">pref_auth_userid_key</string>
+    <string name="pref_passwd_key">pref_passwd_key</string>
+    <string name="pref_domain_key">pref_domain_key</string>
+    <string name="pref_proxy_key">pref_proxy_key</string>
+    <string name="pref_expire_key">pref_expire_key</string>
+    <string name="pref_enable_outbound_proxy_key">Outbound proxy</string>
+    <string name="pref_transport_udp_key">pref_transport_udp_key</string>
+    <string name="pref_transport_tcp_key">pref_transport_tcp_key</string>
+    <string name="pref_transport_tls_key">ref_transport_tls_key</string>
+    <string name="pref_transport_tcp">pref_transport_tcp</string>
+    <string name="pref_transport_tls">pref_transport_tls</string>
+    <string name="pref_transport_udp">pref_transport_udp</string>
+    <string name="default_domain">sip.linphone.org</string>
+    <string name="default_stun">stun.linphone.org</string>
+    <string name="wizard_url">https://www.linphone.org/wizard.php</string>
+    <string name="thongbaodangnhap">Dang tien hanh dang nhap, ban vui long cho!!</string>
+    <string name="welcome">Chao Mung Ban\n Den Voi ChatVn</string>
+    <string-array name="tunnel_mode_entry_values">
+        <item>@string/tunnel_mode_entry_value_disabled</item>
+        <item>@string/tunnel_mode_entry_value_3G_only</item>
+        <item>@string/tunnel_mode_entry_value_always</item>
+        <item>@string/tunnel_mode_entry_value_auto</item>
+    </string-array>
+
+
+</resources>

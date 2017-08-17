@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "342946619126",
+    "firebase_url": "https://chatvn-a266e.firebaseio.com",
+    "project_id": "chatvn-a266e",
+    "storage_bucket": "chatvn-a266e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342946619126:android:e5d110e5037d692b",
+        "android_client_info": {
+          "package_name": "com.example.huaanhhong.chatvn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342946619126-rs828kc8m7t1m76n88aavpg8rv5b8h70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.huaanhhong.chatvn",
+            "certificate_hash": "3582a6861e40f0ac2284a7287936819ccf6c4a32"
+          }
+        },
+        {
+          "client_id": "342946619126-k6l3anlg4ig1lsorf4ge16m5nvs2s1ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR9O-Fcs88nVGozENDcLxXKvVEvlRDlGM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342946619126-k6l3anlg4ig1lsorf4ge16m5nvs2s1ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
